@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<?xml-stylesheet type="text/xsl" href="stylesheetXSL.xml" ?>
+
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="project.xsd">
+    <cars>
+        
+        <make country="Italy">Ferrari</make>
+        <model>Enzo</model>
+        <year>2017</year>
+        <colour>Red</colour>
+        <price>60000.22</price>
+        <productcode id="000-01">F549398</productcode>
+        <quantity>1</quantity>
+        <category>Convertible</category>
+        <engine>
+            <bhp>500</bhp>                
+            <mileage>135000</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>GT-R 550bhp The ultimate performance car which includes Launch Control, GTR Centre Console with Track Telemetry, Reversing Cameras, Full Leather Interior in Black and Red with Recaro seats, Dual Climate Control. Titanium Colour 20" Alloy wheels, Satellite Navigation, BOSE Sound System, Multifunction steering wheel, Paddle shift , Heated seats, Full Nissan Service history...Please call to arrange viewing.</description>
+        
+    </cars>
+    
+    <cars>  
+        
+        <make country="USA">Ford</make>
+        <model>Fiesta</model>
+        <year>2019</year>
+        <colour>Black</colour>
+        <price>15000.11</price>
+        <productcode id="000-02">F537499</productcode>
+        <quantity>3</quantity>
+        <category>Hatchback</category>
+        <engine>
+            <bhp>110</bhp>                
+            <mileage>90000</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>This Titanium model has a host of specification as standard including Rear Parking Sensors, Factory Bluetooth, Touch Screen , AppleiPlay , multip;le charging points and Air Conditioning to name but a few.</description>
+        
+    </cars>
+    
+    <cars>    
+        
+        <make country="Germany">Audi</make>
+        <model>A3</model>
+        <year>2013</year>
+        <colour>White</colour>
+        <price>8000.11</price>
+        <productcode id="000-03">A437800</productcode>
+        <quantity>7</quantity>
+        <category>Saloon</category>
+        <engine>
+            <bhp>140</bhp>                
+            <mileage>120000</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Audi Sound System, Bluetooth Interface, Touchscreen Stereo, Audi Drive Select, Cruise Control, 18"Alloys, Body Coloured Door Mirrors, Automatic Air Conditioning, Illuminated Vanity Mirror, 3 Spoke Leather Multifunction S-Line Steering Wheel, Heated Seats, Leather Interior, Lumbar Support, Anti Theft System, Child Locks, Daytime Running Lights, Front and Rear Park Assist, Hill Hold Assist, ISO Fix Front Passenger and Rear Seat Preparation, LED Headlights, Multiple Airbags, 12V Power Points in Front + Rear Centre Consoles, Exterior door mirrors with memory function, Keyless Go, Pre sense city, USB charging ports, Audi Smartphone Interface, Audi Lane Assist.</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="USA">Chevrolet</make>
+        <model>Camaro</model>
+        <year>1969</year>
+        <colour>Black</colour>
+        <price>80000.11</price>
+        <productcode id="000-04">C432898</productcode>
+        <quantity>1</quantity>
+        <category>Coupe</category>
+        <engine>
+            <bhp>400</bhp>                
+            <mileage>350000</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Great example of a Camaro in immaculate condition. Finished in black metallic and with Msport trim. Comes with factory pan roof. Available to view and buy on line today..</description>
+        
+    </cars>
+    <cars>
+        
+        <make country="Japan">Mitsubishi</make>
+        <model>2020 Mirage SE</model>
+        <year>2020</year>
+        <colour>Green</colour>
+        <price>12370.11</price>
+        <productcode id="000-05">M884330</productcode>
+        <quantity>1</quantity>
+        <category>SUV</category>
+        <engine>
+            <bhp>100</bhp>                
+            <mileage>43000</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Fine condition.</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Germany">Volkswagen</make>
+        <model>Volkswagen Polo</model>
+        <year>1975</year>
+        <colour>Yellow</colour>
+        <price>8700.11</price>
+        <productcode id="000-06">V743001</productcode>
+        <quantity>2</quantity>
+        <category>Hatchback</category>
+        <engine>
+            <bhp>197</bhp>                
+            <mileage>211490</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Automatic</transmission>
+        </engine>
+        <description>The Polo is a 5 seater Hatchback and has a length of 3971mm, width of 1682mm and a wheelbase of 2470mm</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Japan">Mitsubishi</make>
+        <model>L200</model>
+        <year>2019</year>
+        <colour>Orange</colour>
+        <price>37235.11</price>
+        <productcode id="000-07">M843665</productcode>
+        <quantity>1</quantity>
+        <category>Double Cab</category>
+        <engine>
+            <bhp>148</bhp>                
+            <mileage>377000</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description> Advanced common-rail turbo diesel engine with MIVEC variable valve-timing, an aluminium cylinder block and lots of other weight-saving design features</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Czech Republic">Škoda Auto</make>
+        <model>Skoda Kodiaq</model>
+        <year>2016</year>
+        <colour>White</colour>
+        <price>30600.11</price>
+        <productcode id="000-08">S894245</productcode>
+        <quantity>1</quantity>
+        <category>SUV</category>
+        <engine>
+            <bhp>235</bhp>                
+            <mileage>162905</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Automatic</transmission>
+        </engine>
+        <description>The vehicle is based on VW Group's modular MQB platform, shared with a new generation of Volkswagen Tiguan Allspace and the SEAT Tarraco, however the Kodiaq is longer than Tiguan, and comes in a seven seat version</description>
+        
+    </cars>
+    <cars>
+        
+        <make country="Japan">Nissan</make>
+        <model>Skyline R34</model>
+        <year>1998</year>
+        <colour>Yellow</colour>
+        <price>30000.11</price>
+        <productcode id="000-09">N473203</productcode>
+        <quantity>1</quantity>
+        <category>Saloon</category>
+        <engine>
+            <bhp>320</bhp>                
+            <mileage>130000</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Used car. Old but upgraded multiple times. Comes with a v12 engine.</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Japan">Nissan</make>
+        <model>Skyline R32</model>
+        <year>1989</year>
+        <colour>Blue</colour>
+        <price>35000.11</price>
+        <productcode id="000-10">N894665</productcode>
+        <quantity>3</quantity>
+        <category>Saloon</category>
+        <engine>
+            <bhp>250</bhp>                
+            <mileage>6000</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Used car.</description>
+       
+    </cars>
+    
+    <cars>
+        
+        <make country="Japan">Nissan</make>
+        <model>Rav 4</model>
+        <year>2013</year>
+        <colour>Purple</colour>
+        <price>10000.11</price>
+        <productcode id="000-11">N904385</productcode>
+        <quantity>2</quantity>
+        <category>Convertible</category>
+        <engine>
+            <bhp>150</bhp>                
+            <mileage>55000</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Automatic</transmission>
+        </engine>
+        <description>Used car.</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Japan">Nissan</make>
+        <model>Nissan GTR</model>
+        <year>2020</year>
+        <colour>Green</colour>
+        <price>89000.11</price>
+        <productcode id="000-12">N895383</productcode>
+        <quantity>1</quantity>
+        <category>Convertible</category>
+        <engine>
+            <bhp>570</bhp>                
+            <mileage>670000</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Mint condition.</description>
+            
+    </cars>
+    <cars>
+        
+        <make country="Germany">Audi</make>
+        <model>A3</model>
+        <year>2015</year>
+        <colour>Red</colour>
+        <price>15950.11</price>
+        <productcode id="000-13">A539993</productcode>
+        <quantity>1</quantity>
+        <category>Hatchback</category>
+        <engine>
+            <bhp>150</bhp>                
+            <mileage>137121</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>3 Month Warranty, Air Conditioning, Central Locking, Immaculate condition, Electric Windows, Alloy Wheels, Electric Mirrors, Immobiliser, Automatic Wipers, Multi-function steering wheel, Multiple Air Bags, Anti-Theft System, Bluetooth, Six speed transmission, History Checked, 2 Keys</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Germany">Audi</make>
+        <model>A4</model>
+        <year>2017</year>
+        <colour>Black</colour>
+        <price>19950.11</price>
+        <productcode id="000-14">A493444</productcode>
+        <quantity>5</quantity>
+        <category>Saloon</category>
+        <engine>
+            <bhp>150</bhp>                
+            <mileage>116785</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Features,Remote Electric Tailgate Opening/Closing,Rake/Reach Adjustable Steering Column,Illuminated Vanity Mirror,Remote Central Locking,Reversing Sensors,Immobilizer,Electric Windows,Full Service History,Heated Seats</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Germany">Audi</make>
+        <model>Q3</model>
+        <year>2012</year>
+        <colour>Grey</colour>
+        <price>15950.11</price>
+        <productcode id="000-15">A439000</productcode>
+        <quantity>2</quantity>
+        <category>SUV</category>
+        <engine>
+            <bhp>150</bhp>                
+            <mileage>168981</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Mint condition</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Germany">Audi</make>
+        <model>R8</model>
+        <year>2007</year>
+        <colour>Silver</colour>
+        <price>59995.54</price>
+        <productcode id="000-16">A743992</productcode>
+        <quantity>1</quantity>
+        <category>Coupe</category>
+        <engine>
+            <bhp>150</bhp>                
+            <mileage>66000</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Automatic</transmission>
+        </engine>
+        <description>Mint condition</description>
+        
+    </cars>
+    <cars>
+        
+        <make country="Japan">Nissan</make>
+        <model>Skyline R32</model>
+        <year>1990</year>
+        <colour>Black</colour>
+        <price>40000.34</price>
+        <productcode id="000-17">N438211</productcode>
+        <quantity>2</quantity>
+        <category>Coupe</category>
+        <engine>
+            <bhp>500</bhp>                
+            <mileage>75000</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Mint Condition.</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Japan">Mitsubishi</make>
+        <model>Lancer Evolution VIII</model>
+        <year>2002</year>
+        <colour>White</colour>
+        <price>15000.77</price>
+        <productcode id="000-18">M889211</productcode>
+        <quantity>2</quantity>
+        <category>Saloon</category>
+        <engine>
+            <bhp>320</bhp>                
+            <mileage>45000</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Manual</transmission>
+        </engine>
+        <description>Mint condition Evo VIII. Great example of a well kept car.</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Germany">Audi</make>
+        <model>RS4</model>
+        <year>2008</year>
+        <colour>Black</colour>
+        <price>14000.54</price>
+        <productcode id="000-19">A784233</productcode>
+        <quantity>3</quantity>
+        <category>Saloon</category>
+        <engine>
+            <bhp>420</bhp>                
+            <mileage>120000</mileage>
+            <fueltype>Diesel</fueltype>
+            <transmission>Automatic</transmission>
+        </engine>
+        <description>Bose Sound System, Bluetooth Interface, Touchscreen Stereo, Audi Drive Select, Cruise Control, 18"Alloys, Body Coloured Door Mirrors, Automatic Air Conditioning, Illuminated Vanity Mirror, 3 Spoke Leather Multifunction S-Line Steering Wheel, Heated Seats, Leather Interior, Lumbar Support, Anti Theft System, Child Locks, Daytime Running Lights, Front and Rear Park Assist, Hill Hold Assist, ISO Fix Front Passenger and Rear Seat Preparation, LED Headlights, Multiple Airbags, 12V Power Points in Front + Rear Centre Consoles, Exterior door mirrors with memory function, Keyless Go, Pre sense city, USB charging ports, Audi Smartphone Interface, Audi Lane Assist.</description>
+        
+    </cars>
+    
+    <cars>
+        
+        <make country="Germany">Porsche</make>
+        <model>911 GT3</model>
+        <year>2015</year>
+        <colour>White</colour>
+        <price>90000.09</price>
+        <productcode id="000-20">P477730</productcode>
+        <quantity>22</quantity>
+        <category>Coupe</category>
+        <engine>
+            <bhp>550</bhp>                
+            <mileage>12000</mileage>
+            <fueltype>Petrol</fueltype>
+            <transmission>Automatic</transmission>
+        </engine>
+        <description>Great condition porsche 911 GT3. With this there's no need to buy new!</description>
+        
+    </cars>
+</products>
